@@ -70,6 +70,7 @@ nav a:hover {
 
 #mainLeft ul {
     list-style-type: "✓";
+    margin-bottom: 32px;
 }
 
 #mainLeft li {
